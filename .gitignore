@@ -1,0 +1,12 @@
+data/
+results/
+*.pt
+*.pth
+__pycache__/
+*.log
+*.cache
+.vscode/
+yolo_keyboard_env/
+scripts/augment_finger_pen.py
+scripts/new_training.py
+scripts/data_analysis.py
